@@ -19,7 +19,7 @@
 
 - [PySpark SQL Docs](https://spark.apache.org/docs/2.3.0/api/python/pyspark.sql.html) can be pretty helpful
 
-#### Some questions that I had to find answers for while making this run ...
+### Some questions that I had to find answers for while making this run ...
 
 * How do I classify blobs by language?
     * [Use blobs.classify_languages()](https://github.com/src-d/engine/blob/master/_examples/pyspark/pyspark-shell-classifying-languages.md)
